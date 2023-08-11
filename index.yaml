@@ -3,7 +3,7 @@ entries:
   another-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-11T11:27:05.225846+02:00"
+    created: "2023-08-11T11:29:01.173335+02:00"
     description: A Helm chart for Kubernetes
     digest: 0ce0c62aa093328db42295572d99529c3ea8bec110d38dff2c5b02fadcddc216
     name: another-app
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   hello-world:
   - apiVersion: v2
-    created: "2023-08-11T11:27:05.226137+02:00"
+    created: "2023-08-11T11:29:01.173515+02:00"
     description: A Helm chart for Kubernetes
     digest: 3d08e3d61936e74c5edbf9a9cfa9bfa1dc11946c63a353eaf84c429d2a71e64d
     name: hello-world
@@ -24,7 +24,7 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-11T11:27:05.226869+02:00"
+    created: "2023-08-11T11:29:01.174621+02:00"
     description: A Helm chart for Kubernetes
     digest: 4037edc66657c54d6af737d96af31dc4d29e1efb51701200c61521676ce2ff28
     name: my-app
@@ -34,7 +34,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-11T11:27:05.226559+02:00"
+    created: "2023-08-11T11:29:01.174104+02:00"
     description: A Helm chart for Kubernetes
     digest: f77d3f43af4df5fe5327f768ec2059357b3ca693d78712b8a467ce40677d3d20
     name: my-app
@@ -44,7 +44,7 @@ entries:
     version: 0.1.0
   some-app:
   - apiVersion: v2
-    created: "2023-08-11T11:27:05.227442+02:00"
+    created: "2023-08-11T11:29:01.175218+02:00"
     description: A Helm chart for Kubernetes
     digest: de7e8aa8991bdd241eb0cffa243ddd2c84fe69ce31a3c5235b47acab2e42ff41
     name: some-app
@@ -53,7 +53,7 @@ entries:
     - some-app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2023-08-11T11:27:05.227267+02:00"
+    created: "2023-08-11T11:29:01.174872+02:00"
     description: A Helm chart for Kubernetes
     digest: 40041c801f6d17b3355a071066aaa55b448ccf603b5370710ce2706282dbc678
     name: some-app
@@ -64,9 +64,9 @@ entries:
   test-app:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-08-11T11:27:05.227603+02:00"
+    created: "2023-08-11T11:29:01.175384+02:00"
     description: A Helm chart for Kubernetes
-    digest: 8b3ab2093869267c723a3eb6533c30bd07e459835ab5ed25698d9618e22b07fa
+    digest: 59b0f78c55df561b174a4340fac5f2645843c1e28a291e2d5f48cd0b3659b163
     name: test-app
     type: application
     urls:
@@ -75,7 +75,7 @@ entries:
   timeout-app:
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2023-08-11T11:27:05.228199+02:00"
+    created: "2023-08-11T11:29:01.176314+02:00"
     description: A Helm chart for Kubernetes
     digest: 6a85e7e5f8fff5492d641afc7381b0715f3b347588fbca965d223fa8a7c7be08
     name: timeout-app
@@ -85,7 +85,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-08-11T11:27:05.228045+02:00"
+    created: "2023-08-11T11:29:01.175984+02:00"
     description: A Helm chart for Kubernetes
     digest: 0bd8adf44e6fbc53b7e960944f76fa69e1f8d3da43db4a51e4892b837d640914
     name: timeout-app
@@ -95,7 +95,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-08-11T11:27:05.227905+02:00"
+    created: "2023-08-11T11:29:01.175709+02:00"
     description: A Helm chart for Kubernetes
     digest: d2436493defe74053d4cfd6ae49792b2df6ba8bf21ef94d40cb89491296b2ca0
     name: timeout-app
@@ -105,7 +105,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-08-11T11:27:05.22776+02:00"
+    created: "2023-08-11T11:29:01.175554+02:00"
     description: A Helm chart for Kubernetes
     digest: 45d46c078b47137457b80a2f6cbda016fc47fcfd2d0f90911d1a91320ae0e804
     name: timeout-app
@@ -113,4 +113,4 @@ entries:
     urls:
     - timeout-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-11T11:27:05.22501+02:00"
+generated: "2023-08-11T11:29:01.172621+02:00"
